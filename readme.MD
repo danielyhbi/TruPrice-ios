@@ -4,7 +4,7 @@ Final Project - CS 5520 Mobile App Development - Spring 2023
 
 > Math is hard, what is 5.75 * 1.008 + 16 * 0.0175 (the price of a 16oz bubble tea plus sugar tax)?
 
-(Actual code base is in a private repo)
+(Actual code base is in a [private repo](https://github.com/CS5520-Seattle-Spring23/final-project-avengers))
 
 (This page is for [presentation](/TruPrice_presentation.pdf) and [demo](https://github.com/danielyhbi/TruPrice-ios/tree/main/demo-gifs) only)
 
@@ -13,9 +13,9 @@ Final Project - CS 5520 Mobile App Development - Spring 2023
 - Bronte Li [bronteee@](https://github.com/bronteee)
 - Philip Quan [deathbysora@](https://github.com/deathbysora)
 
-All team members are crutial to the product development, including initial brainstorm, wireframe design, testing, software and UI development. Team utilized many flutter features.
+All team members are crucial to product development, including initial brainstorming, wireframe design, testing, software and UI development. The team utilized many flutter features.
 
-Bronte lead the main effort on ML/AI (model training/deployment on image recognitions, augmented reality), Philip lead the effort for overall system design (I/O, infrastructure), Daniel lead the main effort for UI (Widgets, Navigation).
+Bronte lead the main effort on ML/AI (model training/deployment on image recognition, augmented reality), Philip lead the effort for overall system design (I/O, infrastructure), and Daniel lead the main effort for UI (Widgets, Navigation).
 
 ## Definitions
 * TruPrice: a mobile application that allows users to scan product’s price tags and receive the true price of the products, including all taxes.

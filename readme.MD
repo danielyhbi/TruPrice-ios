@@ -11,7 +11,7 @@ Final Project - CS 5520 Mobile App Development - Spring 2023
 ## Teammate
 - Daniel Bi [danielyhbi@](https://github.com/danielyhbi)
 - Bronte Li [bronteee@](https://github.com/bronteee)
-- Philip Quan [deathbysora@](https://github.com/deathbysora)
+- Philip Quan [thephilipquan@](https://github.com/thephilipquan)
 
 All team members are crucial to product development, including initial brainstorming, wireframe design, testing, software and UI development. The team utilized many flutter features.
 
